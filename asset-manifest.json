@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-breaking-bad/static/css/main.4f000d88.css",
+    "main.js": "/react-breaking-bad/static/js/main.1ce8e52a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-breaking-bad/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/homeLogo.jpg": "/react-breaking-bad/static/media/homeLogo.4648d9974881df6717ef.jpg",
+    "static/media/drugLogo.png": "/react-breaking-bad/static/media/drugLogo.f3f1877a9f9d153425f1.png",
+    "static/media/druggies.jpg": "/react-breaking-bad/static/media/druggies.9c14154795a2cbd26639.jpg",
+    "index.html": "/react-breaking-bad/index.html",
+    "main.4f000d88.css.map": "/react-breaking-bad/static/css/main.4f000d88.css.map",
+    "main.1ce8e52a.js.map": "/react-breaking-bad/static/js/main.1ce8e52a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-breaking-bad/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f000d88.css",
+    "static/js/main.1ce8e52a.js"
+  ]
+}
